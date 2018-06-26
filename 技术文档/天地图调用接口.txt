@@ -1,0 +1,12 @@
+浙江省矢量地图注记	http://srv.zjditu.cn/ZJEMAPANNO_2D/wmts
+浙江省影像地图  	http://srv.zjditu.cn/ZJDOM_2D/wmts
+浙江省影像地图注记	http://srv.zjditu.cn/ZJDOMANNO_2D/wmts
+淳安县矢量地图	       http://220.191.208.96/CAEMAP/service/wmts
+淳安县矢量地图注记	http://220.191.208.96/CAEMAPANNO/service/wmts
+淳安县影像地图	       http://220.191.208.96/CAIMG/service/wmts
+淳安县影像地图注记	http://220.191.208.96/CAIMGANNO/service/wmts
+地名地址服务接口	http://220.191.208.96/CADMDZ/service/wfs
+
+
+
+都是wmts服务

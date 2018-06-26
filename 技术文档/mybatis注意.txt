@@ -1,0 +1,9 @@
+<select id="getTotalScore" parameterType="java.lang.Integer" resultType="java.lang.Integer">
+        select sum(score_value) from farmer_garbage_assess where 1 = 1
+        <if test="_parameter != 0">
+          and user_id =#{_parameter,jdbcType=INTEGER}
+        </if>
+    </select>
+	
+	如果我只传入一个String或者int类型的数据
+	那么我应该将mybatis中的变量名统一修改为_parameter 只有这样才能够获取传过来的值
